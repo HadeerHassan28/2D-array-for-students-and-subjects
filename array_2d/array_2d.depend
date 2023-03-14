@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678305066 source:d:\prog_course\iti_3_months\oop\labs\day_3\array_2d\array_2d\main.cpp
+	<iostream>
+	<algorithm>
+	<bits/stdc++.h>
+
